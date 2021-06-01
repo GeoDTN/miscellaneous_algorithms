@@ -47,7 +47,7 @@ std::vector<std::pair<int, int>> permutation(int N, int K);
 int solution(std::vector<int> &A);
 int main()
 {
-  cout << "Hello World!" << endl;
+  //Test here
   return 0;
 }
 

@@ -34,8 +34,7 @@ Write an efficient algorithm for the following assumptions:
 int solution(std::vector<int> &A);
 int main()
 {
-  cout << "Hello World!" << endl;
-  return 0;
+  //Test here
 }
 
 int solution(std::vector<int> &A) {

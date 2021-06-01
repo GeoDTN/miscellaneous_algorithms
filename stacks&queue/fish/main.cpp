@@ -46,8 +46,7 @@ Write an efficient algorithm for the following assumptions:
 int solution(vector<int> &A, vector<int> &B);
 int main()
 {
-  cout << "Hello World!" << endl;
-  return 0;
+  //Test here
 }
 
 int solution(vector<int> &A, vector<int> &B) {

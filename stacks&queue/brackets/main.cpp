@@ -5,8 +5,7 @@ bool areBracketsBalanced(string expr);
 
 int main()
 {
-  cout << "Hello World!" << endl;
-  return 0;
+  //Test here
 }
 bool areBracketsBalanced(string expr)
 {

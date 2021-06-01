@@ -26,8 +26,8 @@ Write an efficient algorithm for the following assumptions:
 int solution(std::string& S);
 int main()
 {
-  cout << "Hello World!" << endl;
-  return 0;
+  
+  //Test here
 }
 int solution(std::string& S) {
   int counter1{};

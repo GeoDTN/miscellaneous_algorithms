@@ -358,8 +358,7 @@ void rotate_array(size_t k, std::vector<int>& array) {
 
 int main()
 {
-  cout << "Hello World!" << endl;
-  return 0;
+  //Test all here
 }
 
 

@@ -43,7 +43,7 @@ int solution(vector<int> &A);
 
 int main()
 {
-  cout << "Hello World!" << endl;
+  //Test here
   return 0;
 }
 

@@ -28,8 +28,8 @@ int solution(vector<int> &A);
 
 int main()
 {
-  cout << "Hello World!" << endl;
-  return 0;
+  std::vector<int> v{67,90,0,7,6,67,45,3,21, 0,45};
+  return solution(v);;
 }
 
 int solution(vector<int> &A){

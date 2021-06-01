@@ -48,7 +48,7 @@ Write an efficient algorithm for the following assumptions:
 int main()
 {
 
-  return 0;
+  //test here;
 }
 
 vector<int> solution(string &S, vector<int> &P, vector<int> &Q) {

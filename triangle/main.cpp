@@ -47,8 +47,7 @@ std::vector<std::tuple<int, int, int>> permutation(int N, int K);
 int solution(vector<int> &A);
 int main()
 {
-  cout << "Hello World!" << endl;
-  return 0;
+  //Test here
 }
 
 std::vector<std::tuple<int, int, int>> permutation(int N, int K) {
